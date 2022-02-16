@@ -1,0 +1,17 @@
+.App-header {
+    width: 100%;
+    background-color: #a5a5a555;
+   }
+   .Logo{
+     width: 150px;
+     height: 130px;
+     margin: 0%;
+     padding: 0%;
+   }
+   .star{
+     margin-left: 50px;
+   }
+   .menu{
+     position: relative;
+     right: 2px;
+   }
