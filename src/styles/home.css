@@ -5,3 +5,8 @@
     width: 100%;
     height: 150px;
   }
+
+  .banner{
+    max-width: 1400px;
+    width: 100%;
+  }
