@@ -9,5 +9,14 @@
 .footer{
     color: #6457A6;
     width: 100%;
+<<<<<<< HEAD
     height: 110px;
+=======
+    height: 150px;
+  }
+
+  .banner{
+    max-width: 1400px;
+    width: 100%;
+>>>>>>> c6f945cea71496c94cda52c976db4be2040ce5f5
   }
