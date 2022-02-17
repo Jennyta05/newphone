@@ -112,6 +112,14 @@
       font-size: 22px;
       
     }
+    .menu-content li a{
+      color: #6457A6;
+     
+    }
+    .menu-content li a.active, .menu-content li a:hover{
+      color: #0D0A96;
+      transition: .3s;
+    }
 
   }
   
